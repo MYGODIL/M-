@@ -1,0 +1,1 @@
+# Capacitive-Strain-Gauge
